@@ -126,12 +126,12 @@ function MM_preloadImages() { //v3.0
 <TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
 	<TR> 
 		<TD CLASS="copyrightunderline" ALIGN="center"> 
-			  <A CLASS="copyrightlink" HREF="index2.shtml.html">HOME</A> 
-			| <A CLASS="copyrightlink" HREF="aboutus.shtml.html">ABOUT US</A>
-			| <A CLASS="copyrightlink" HREF="services.shtml.html">SERVICES</A> 
-			| <A CLASS="copyrightlink" HREF="faq.shtml.html">FAQ</A>
-			| <A CLASS="copyrightlink" HREF="viewvideo.shtml.html">VIEW VIDEO</A>
-			| <A CLASS="copyrightlink" HREF="contactus.shtml.html">CONTACT US</A>						
+			  <A CLASS="copyrightlink" HREF="index2.shtml">HOME</A> 
+			| <A CLASS="copyrightlink" HREF="aboutus.shtml">ABOUT US</A>
+			| <A CLASS="copyrightlink" HREF="services.shtml">SERVICES</A> 
+			| <A CLASS="copyrightlink" HREF="faq.shtml">FAQ</A>
+			| <A CLASS="copyrightlink" HREF="viewvideo.shtml">VIEW VIDEO</A>
+			| <A CLASS="copyrightlink" HREF="contactus.shtml">CONTACT US</A>						
 		</TD>
 	</TR><TR> 
 		<TD CLASS="copyright" ALIGN="center">

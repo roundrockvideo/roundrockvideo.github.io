@@ -99,7 +99,7 @@ function MM_preloadImages() { //v3.0
 					Choosing your wedding videographer is an extremely important decision and an investment in part of your life that you'll 
 					share with your family for generations to come. We hope the information on this website helps make that decision easier. 
 					<BR><BR>
-					Please <A HREF="contactus.shtml.html">contact us</A> if we can be of any help as you prepare for your wedding day. 
+					Please <A HREF="contactus.shtml">contact us</A> if we can be of any help as you prepare for your wedding day. 
 					</TD>
 				</TR>
 			</TABLE>
@@ -121,18 +121,19 @@ function MM_preloadImages() { //v3.0
 <TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
 	<TR> 
 		<TD CLASS="copyrightunderline" ALIGN="center"> 
-			  <A CLASS="copyrightlink" HREF="index2.shtml.html">HOME</A> 
-			| <A CLASS="copyrightlink" HREF="aboutus.shtml.html">ABOUT US</A>
-			| <A CLASS="copyrightlink" HREF="services.shtml.html">SERVICES</A> 
-			| <A CLASS="copyrightlink" HREF="faq.shtml.html">FAQ</A>
-			| <A CLASS="copyrightlink" HREF="viewvideo.shtml.html">VIEW VIDEO</A>
-			| <A CLASS="copyrightlink" HREF="contactus.shtml.html">CONTACT US</A>						
+			  <A CLASS="copyrightlink" HREF="index2.shtml">HOME</A> 
+			| <A CLASS="copyrightlink" HREF="aboutus.shtml">ABOUT US</A>
+			| <A CLASS="copyrightlink" HREF="services.shtml">SERVICES</A> 
+			| <A CLASS="copyrightlink" HREF="faq.shtml">FAQ</A>
+			| <A CLASS="copyrightlink" HREF="viewvideo.shtml">VIEW VIDEO</A>
+			| <A CLASS="copyrightlink" HREF="contactus.shtml">CONTACT US</A>						
 		</TD>
 	</TR><TR> 
 		<TD CLASS="copyright" ALIGN="center">
 		Copyright &copy; 2005-2012 Round Rock Video Productions. Austin Video.<BR>All Rights Reserved<BR>
 		Site design by <A CLASS="copyrightlink" href="http://www.pixelpops.com" TARGET="_blank">PixelPops</a>
-		</TD>
+		<BR><BR>Ethan is Awesome
+        </TD>
 	</TR>
 </TABLE></TD>
 	<TD>&nbsp;</TD>

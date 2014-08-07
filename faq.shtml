@@ -131,7 +131,7 @@ function MM_preloadImages() { //v3.0
 					<TD CLASS="justify" ALIGN="left"><B>What do I need to do to hire you as my wedding videographer?</B></TD>
 				</TR><TR>
 					<TD WIDTH="7" VALIGN="top">&nbsp;</TD>					
-					<TD CLASS="text" ALIGN="left"><A HREF="contactus.shtml.html" CLASS="text">Contact us</A> now!</TD>
+					<TD CLASS="text" ALIGN="left"><A HREF="contactus.shtml" CLASS="text">Contact us</A> now!</TD>
 				</TR>
 			</TABLE>
 		</TD>
@@ -152,12 +152,12 @@ function MM_preloadImages() { //v3.0
 <TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
 	<TR> 
 		<TD CLASS="copyrightunderline" ALIGN="center"> 
-			  <A CLASS="copyrightlink" HREF="index2.shtml.html">HOME</A> 
-			| <A CLASS="copyrightlink" HREF="aboutus.shtml.html">ABOUT US</A>
-			| <A CLASS="copyrightlink" HREF="services.shtml.html">SERVICES</A> 
-			| <A CLASS="copyrightlink" HREF="faq.shtml.html">FAQ</A>
-			| <A CLASS="copyrightlink" HREF="viewvideo.shtml.html">VIEW VIDEO</A>
-			| <A CLASS="copyrightlink" HREF="contactus.shtml.html">CONTACT US</A>						
+			  <A CLASS="copyrightlink" HREF="index2.shtml">HOME</A> 
+			| <A CLASS="copyrightlink" HREF="aboutus.shtml">ABOUT US</A>
+			| <A CLASS="copyrightlink" HREF="services.shtml">SERVICES</A> 
+			| <A CLASS="copyrightlink" HREF="faq.shtml">FAQ</A>
+			| <A CLASS="copyrightlink" HREF="viewvideo.shtml">VIEW VIDEO</A>
+			| <A CLASS="copyrightlink" HREF="contactus.shtml">CONTACT US</A>						
 		</TD>
 	</TR><TR> 
 		<TD CLASS="copyright" ALIGN="center">
