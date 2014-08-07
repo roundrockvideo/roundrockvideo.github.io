@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML>
+<HEAD>
+	<TITLE>Round Rock Video Productions</TITLE>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+	<META NAME="Description" CONTENT="Elegant and creative wedding videography">
+	<META NAME="KeyWords" CONTENT="video,videographer,videography,wedding videos,wedding videographer,wedding videography">
+	<LINK REL="STYLESHEET" TYPE="text/css" HREF="roundrock.css">		
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<DIV ALIGN="center">
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="734">
+	<TR>
+		<TD><IMG NAME="top1" SRC="images/top1.jpg" WIDTH="26" HEIGHT="28" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="top2" SRC="images/top2.jpg" WIDTH="92" HEIGHT="28" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="top3" SRC="images/top3.jpg" WIDTH="46" HEIGHT="28" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="top4" SRC="images/top4.jpg" WIDTH="438" HEIGHT="28" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="top5" SRC="images/top5.jpg" WIDTH="132" HEIGHT="28" BORDER="0" ALT=""></TD>
+	</TR><TR>
+		<TD COLSPAN="5">
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD><IMG NAME="menu1" SRC="images/menu1.jpg" WIDTH="26" HEIGHT="16" BORDER="0" ALT=""></TD>
+					<TD><IMG NAME="menu2" SRC="images/menu2.jpg" WIDTH="28" HEIGHT="16" BORDER="0" ALT=""></TD>					
+					<TD><OBJECT CLASSID="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" CODEBASE="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" WIDTH="548" HEIGHT="16">
+					<PARAM NAME="movie" VALUE="images/navmenu.swf">
+					<PARAM NAME="quality" VALUE="high">
+					<PARAM NAME="bgcolor" VALUE="#000000">
+					<EMBED SRC="images/navmenu.swf" QUALITY="high" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer" TYPE="application/x-shockwave-flash" WIDTH="548" HEIGHT="16"></EMBED></OBJECT>
+					
+					</TD>
+					<TD><IMG NAME="menu4" SRC="images/menu4.jpg" WIDTH="132" HEIGHT="16" BORDER="0" ALT=""></TD>					
+				</TR>
+			</TABLE>
+		</TD>
+	</TR><TR>
+		<TD><IMG NAME="submenu1" SRC="images/submenu1.jpg" WIDTH="26" HEIGHT="42" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="submenu2" SRC="images/submenu2.jpg" WIDTH="92" HEIGHT="42" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="submenu3" SRC="images/submenu3.jpg" WIDTH="46" HEIGHT="42" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="submenu4" SRC="images/submenu4.jpg" WIDTH="438" HEIGHT="42" BORDER="0" ALT=""></TD>
+		<TD><IMG NAME="submenu5" SRC="images/submenu5.jpg" WIDTH="132" HEIGHT="42" BORDER="0" ALT=""></TD>
+	</TR><TR>
+		<TD COLSPAN="3" ROWSPAN="3" VALIGN="top">
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD><IMG NAME="n1dots" SRC="images/1dots.jpg" WIDTH="26" HEIGHT="126" BORDER="0" ALT=""></TD>
+					<TD><IMG SRC="images/1photo.jpg" ALT=""></TD>
+					<TD><IMG NAME="n1company" SRC="images/1company.jpg" WIDTH="46" HEIGHT="126" BORDER="0" ALT=""></TD>
+				</TR><TR>
+					<TD><IMG NAME="n2dots" SRC="images/2dots.jpg" WIDTH="26" HEIGHT="126" BORDER="0" ALT=""></TD>
+
+					<TD><IMG SRC="images/2photo.jpg" ALT=""></TD>
+					<TD><IMG NAME="n2company" SRC="images/2company.jpg" WIDTH="46" HEIGHT="126" BORDER="0" ALT=""></TD>
+				</TR><TR>
+					<TD><IMG NAME="bottom1" SRC="images/bottom1.jpg" WIDTH="26" HEIGHT="87" BORDER="0" ALT=""></TD>
+					<TD><IMG NAME="bottom2" SRC="images/bottom2.jpg" WIDTH="92" HEIGHT="87" BORDER="0" ALT=""></TD>
+					<TD><IMG NAME="bottom3" SRC="images/bottom3.jpg" WIDTH="46" HEIGHT="87" BORDER="0" ALT=""></TD>
+				</TR>	
+			</TABLE>
+		</TD>
+		<TD ROWSPAN="3" VALIGN="top">
+		<BR>
+			<TABLE BORDER="0" CELLPADDING="3" CELLSPACING="0" WIDTH="100%">
+				<TR>
+					<TD WIDTH="7" VALIGN="top"><IMG SRC="images/bullet.gif" WIDTH="7" HEIGHT="7" ALT=""></TD>
+					<TD CLASS="text" ALIGN="left"><B>Why should I have my wedding day professionally videotaped?</B></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top">&nbsp;</TD>
+					<TD CLASS="justify"><IMG CLASS="border" SRC="images/0278.jpg" ALT="" ALIGN="right" HSPACE="5">Your wedding day is a once in a lifetime experience.  After months of careful 
+					planning to make your celebration perfect, your emotions will fly by in a heartbeat - laughter shared 
+					with friends and family as you prepare for your ceremony, eager anticipation as you walk down the
+					aisle, tears of joy as you say your vows, a loving caress in your first dance, the fun and excitement
+					of your reception.  These moments are full of sights, sounds, and motion!  And these memories are
+					what are left after your wedding day is over.  As professional wedding videographers, we capture 
+					emotions as only a moving picture can and preserve them for you to enjoy over and over again 
+					and to pass down to future generations.<BR><BR></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top"><IMG SRC="images/bullet.gif" WIDTH="7" HEIGHT="7" ALT=""></TD>
+					<TD CLASS="text" ALIGN="left"><B>How should I choose a professional wedding videographer?</B></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top">&nbsp;</TD>					
+					<TD CLASS="justify"> Hiring the right videographer does make a difference.  There are no retakes 
+					in a live event.  It must be done right the first time.  Choose a wedding videographer who is accomplished 
+					and dedicated to outstanding service - it takes more than good equipment to make a great video.  It 
+					takes talent, vision, and accomplished camera skills.  Also keep in mind that your videographer will be 
+					with you throughout your wedding day.  Choose someone you feel confident will interact well with both 
+					you and your guests.  The most important element to shop for is the actual videographer, whose creative 
+					experience, professionalism and talents are what you really want.<BR><BR></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top"><IMG SRC="images/bullet.gif" WIDTH="7" HEIGHT="7" ALT=""></TD>
+					<TD CLASS="text" ALIGN="left"><B>Why should I choose Round Rock Video Productions to video my wedding?</B></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top">&nbsp;</TD>
+					<TD CLASS="justify">By having us video your wedding, you get the exceptional benefits of an 
+					experienced professional wedding videographer:  a creative eye with the ability to capture flattering 
+					angles and compose terrific shots, the skill to anticipate important moments and ensure that emotional 
+					moments are captured forever, plus you get professional cameras, professional microphones, 
+					professional editing equipment to give you the outstanding picture quality and great sound that your 
+					wedding day deserves.  Add to that the capability to put your video on DVD and all in all, you get a 
+					complete production that beautifully captures your memories in a video that you will love.<BR><BR></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top"><IMG SRC="images/bullet.gif" WIDTH="7" HEIGHT="7" ALT=""></TD>
+					<TD CLASS="justify" ALIGN="left"><B>What do I need to do to hire you as my wedding videographer?</B></TD>
+				</TR><TR>
+					<TD WIDTH="7" VALIGN="top">&nbsp;</TD>					
+					<TD CLASS="text" ALIGN="left"><A HREF="contactus.shtml.html" CLASS="text">Contact us</A> now!</TD>
+				</TR>
+			</TABLE>
+		</TD>
+		<TD VALIGN="top">
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD><IMG NAME="body4" SRC="images/body4.jpg" WIDTH="132" HEIGHT="126" BORDER="0" ALT=""></TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR><TR>
+		<TD><IMG NAME="body5" SRC="images/body5.jpg" WIDTH="132" HEIGHT="126" BORDER="0" ALT=""></TD>				
+	</TR><TR>
+		<TD><IMG NAME="body6" SRC="images/body6.jpg" WIDTH="132" HEIGHT="49" BORDER="0" ALT=""></TD>
+	</TR><TR>
+	<TD COLSPAN="3">&nbsp;</TD>
+	<TD ALIGN="center"><BR><BR>
+<TABLE BORDER="0" CELLPADDING="2" CELLSPACING="2">
+	<TR> 
+		<TD CLASS="copyrightunderline" ALIGN="center"> 
+			  <A CLASS="copyrightlink" HREF="index2.shtml.html">HOME</A> 
+			| <A CLASS="copyrightlink" HREF="aboutus.shtml.html">ABOUT US</A>
+			| <A CLASS="copyrightlink" HREF="services.shtml.html">SERVICES</A> 
+			| <A CLASS="copyrightlink" HREF="faq.shtml.html">FAQ</A>
+			| <A CLASS="copyrightlink" HREF="viewvideo.shtml.html">VIEW VIDEO</A>
+			| <A CLASS="copyrightlink" HREF="contactus.shtml.html">CONTACT US</A>						
+		</TD>
+	</TR><TR> 
+		<TD CLASS="copyright" ALIGN="center">
+		Copyright &copy; 2005-2012 Round Rock Video Productions. Austin Video.<BR>All Rights Reserved<BR>
+		Site design by <A CLASS="copyrightlink" href="http://www.pixelpops.com" TARGET="_blank">PixelPops</a>
+		</TD>
+	</TR>
+</TABLE></TD>
+	<TD>&nbsp;</TD>
+	</TR>
+</TABLE>
+</DIV>
+</BODY>
+</HTML>
+

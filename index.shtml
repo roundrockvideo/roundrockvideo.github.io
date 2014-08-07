@@ -45,7 +45,7 @@
 					<TD><IMG NAME="splash2" SRC="images/splash2.jpg" WIDTH="131" HEIGHT="420" BORDER="0" ALT="Round Rock Wedding Videographer"></TD>
 					<TD><IMG NAME="splash3" SRC="images/splash3.jpg" WIDTH="129" HEIGHT="420" BORDER="0" ALT="Austin Videographer"></TD>
 					<TD><IMG NAME="splash4" SRC="images/splash4.jpg" WIDTH="109" HEIGHT="420" BORDER="0" ALT="Round Rock Videographer"></TD>
-					<TD><A HREF="index2.shtml" onMouseOut="MM_swapImgRestore();" onMouseOver="MM_swapImage('splash5','','images/splash5_f2.jpg',1);"><IMG NAME="splash5" SRC="images/splash5.jpg" WIDTH="274" HEIGHT="420" BORDER="0" ALT=""></A></TD>
+					<TD><A HREF="index2.shtml.html" onMouseOut="MM_swapImgRestore();" onMouseOver="MM_swapImage('splash5','','images/splash5_f2.jpg',1);"><IMG NAME="splash5" SRC="images/splash5.jpg" WIDTH="274" HEIGHT="420" BORDER="0" ALT=""></A></TD>
 				</TR>
 			</TABLE>
 		</TD>
